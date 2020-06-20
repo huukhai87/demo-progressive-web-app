@@ -11,7 +11,7 @@
 #### `Step 1` - clone the repo
 
 ```bash
-$ git clone https://github.com/gokulkrishh/demo-progressive-web-app
+$ git clone https://github.com/huukhai87/demo-progressive-web-app
 ```
 
 #### `Step 2` - cd in the repo
@@ -72,10 +72,16 @@ In browser, open [http://localhost:3000](http://localhost:3000)
 
 - [Awesome Meta and Manifest](https://github.com/gokulkrishh/awesome-meta-and-manifest)
 
-#### License
+## License
 
-MIT © [Gokulakrishnan](https://github.com/gokulkrishh)
+This software is released under the [Apache 2.0 License][apache2_license].
 
-<div align="center">
-  <sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
-</div>
+© 2017 Altoran System. All rights reserved
+
+[apache2_license]: http://opensource.org/licenses/Apache-2.0
+
+### Compatibility
+
+![browserstack-logo-600x315](https://user-images.githubusercontent.com/7760/34738829-7327ddc4-f561-11e7-97e2-2fe0474eaf05.png)
+
+These components are expected to work on somewhat modern browsers, but if it breaks on a particular version of a particular browser, please [file an issue](https://github.com/huukhai87/hostedWebAppDemo/issues), we can check the problem using [browserstack](http://browserstack.com/), that is a nice service and supports open source projects like this one :)
